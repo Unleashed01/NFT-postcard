@@ -1,0 +1,47 @@
+
+#body{
+    background-color: hsl(217, 54%, 11%);
+    margin: -8px;
+    align-content: center;
+}
+.bg{
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 37%;
+    margin-right: 37%;
+    padding: 2%;
+    color: hsl(215, 32%, 27%);
+    background-color: hsl(216, 50%, 16%);
+    font-size: 18px;   
+    border-radius: 3%;
+}
+.white{
+    color: hsl(0, 0%, 100%);
+}
+img{
+   height: 100%;
+   width: 100%;
+   border-radius: 2%;
+}
+.icon{
+    width: 0.75em;
+
+}
+.ether{
+    color:hsl(178, 100%, 50%);
+    font-size: 18px;
+}
+.icon2{
+    width: 1em;
+}
+hr{
+    border-bottom: 0px;
+    margin-top: 7%;
+}
+.icon3{
+    width: 2em;
+    border-radius: 100%;
+    position: relative;
+    border-color: aliceblue;
+    top: 2vh;
+}
